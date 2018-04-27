@@ -1,0 +1,34 @@
+## package folders
+node_modules/
+bower_components/
+
+## bundle folders
+public/
+#dist/
+#docs/
+
+## log directories and files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log*
+test/unit/coverage/
+test/e2e/reports/
+licenses.csv
+selenium-debug.log*
+licenses.html
+
+## environment files
+yarn.lock
+defront.config.js
+defront.config.*.js
+!config/defront.config.*.js
+package-lock.json
+.env
+
+## Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+
