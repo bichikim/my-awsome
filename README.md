@@ -4,3 +4,5 @@
  - [polymer](https://www.polymer-project.org/) ⭐⭐⭐
  - [d3js](https://d3js.org/) ⭐⭐⭐
  = [aurelia](http://aurelia.io/) ⭐⭐⭐⭐
+## animation control
+ - [animejs](http://animejs.com/) ⭐⭐⭐⭐
