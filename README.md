@@ -8,3 +8,14 @@
  - [animejs](http://animejs.com/) ⭐⭐⭐⭐
 ## Environment control
  - [nps](https://www.npmjs.com/package/nps) ⭐⭐⭐⭐
+## Test control
+ - [protractor](https://www.npmjs.com/package/protractor)
+ - [nyc](https://github.com/istanbuljs/nyc)
+ - [karma](https://www.npmjs.com/package/karma)
+ - [karma-coverage-istanbul-reporter](https://www.npmjs.com/package/karma-coverage-istanbul-reporter)
+ - [testcafe](https://github.com/DevExpress/testcafe)
+ - [avoriaz](https://github.com/eddyerburgh/avoriaz-karma-mocha-example)
+ - [A modern way to do E2E testing for Vue.js apps](https://hackernoon.com/a-modern-way-to-do-e2e-testing-for-vue-js-apps-cebe0a07499c)
+ 
+ 
+ 
