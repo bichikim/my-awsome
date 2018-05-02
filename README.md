@@ -19,4 +19,6 @@
  - [A modern way to do E2E testing for Vue.js apps](https://hackernoon.com/a-modern-way-to-do-e2e-testing-for-vue-js-apps-cebe0a07499c)
 ## Vuex doc
  - [Six random issues and their solutions in VueJS](https://medium.com/@stijlbreuk/six-random-issues-and-their-solutions-in-vuejs-b16d470a6462)
+## Nuxt module
+ - [nuxtent](https://github.com/nuxt-community/nuxtent-module)
  
