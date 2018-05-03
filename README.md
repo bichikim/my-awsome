@@ -25,3 +25,5 @@
  - [nuxtent](https://github.com/nuxt-community/nuxtent-module)
 ## DB
  - [rethinkdb](https://www.rethinkdb.com/)
+## Tour
+ - [vue-tour](https://pulsardev.github.io/vue-tour/)
