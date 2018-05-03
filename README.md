@@ -23,4 +23,5 @@
  - [Vuex-keg]()
 ## Nuxt module
  - [nuxtent](https://github.com/nuxt-community/nuxtent-module)
- 
+## DB
+ - [rethinkdb](https://www.rethinkdb.com/)
