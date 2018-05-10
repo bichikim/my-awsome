@@ -6,6 +6,7 @@
  - [aurelia](http://aurelia.io/) ⭐⭐⭐⭐
 ## Animation control
  - [animejs](http://animejs.com/) ⭐⭐⭐⭐
+ - [Animate.css](https://daneden.github.io/animate.css/)
 ## Environment control
  - [nps](https://www.npmjs.com/package/nps) ⭐⭐⭐⭐
 ## Test control
