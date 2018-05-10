@@ -6,6 +6,7 @@
  - [aurelia](http://aurelia.io/) ⭐⭐⭐⭐
 ## Animation control
  - [animejs](http://animejs.com/) ⭐⭐⭐⭐
+ - [Animate.css](https://daneden.github.io/animate.css/)
 ## Environment control
  - [nps](https://www.npmjs.com/package/nps) ⭐⭐⭐⭐
 ## Test control
@@ -25,3 +26,9 @@
  - [nuxtent](https://github.com/nuxt-community/nuxtent-module)
 ## Javascript library
  - [Dinero.js](https://sarahdayan.github.io/dinero.js/index.html)
+## DB
+ - [rethinkdb](https://www.rethinkdb.com/)
+## Tour
+ - [vue-tour](https://pulsardev.github.io/vue-tour/)
+## Css
+ - [bulma](https://bulma.io/)
