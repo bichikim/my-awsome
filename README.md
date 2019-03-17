@@ -105,6 +105,9 @@
 ### Commend args
  - [minimist](https://github.com/substack/minimist)
  - [$click](http://click.pocoo.org/5/)
+ 
+### util
+ - [pigy](https://www.npmjs.com/package/pify) Promisify a callback-style function
 
 ## Awesome recipes
 
