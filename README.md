@@ -106,9 +106,19 @@
  - [minimist](https://github.com/substack/minimist)
  - [$click](http://click.pocoo.org/5/)
  
-### Json
+### JSON Web Token
+ - jsonwebtoken
+ 
+### Web locale DB
+ - localforage
+ 
+### JSON
  - [serialize-javascript](https://www.npmjs.com/package/serialize-javascript) \
    Serialize JavaScript to a superset of JSON that includes regular expressions, dates and functions.
+
+### Node.js files
+ - fs-extra
+ - globby
  
 ### util
  - [pigy](https://www.npmjs.com/package/pify) Promisify a callback-style function
