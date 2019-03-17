@@ -35,6 +35,9 @@
 ### Time
 - [moment](https://momentjs.com/)
 
+### Web locale DB
+ - localforage
+
 ### SSR
  - nuxt
  - next
@@ -69,6 +72,7 @@
 ### docs
  - [typedoc🚀🛰](http://typedoc.org/)
  - [vuepress🚀🛰](https://vuepress.vuejs.org/)
+ - [vue-styleguidist](https://github.com/vue-styleguidist/vue-styleguidist)
  
 ### DB
  - [rethinkdb](https://www.rethinkdb.com/)
@@ -108,9 +112,6 @@
  
 ### JSON Web Token
  - jsonwebtoken
- 
-### Web locale DB
- - localforage
  
 ### JSON
  - [serialize-javascript](https://www.npmjs.com/package/serialize-javascript) \
