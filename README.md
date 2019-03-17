@@ -2,7 +2,7 @@
 
 ## Front-end library
 
-### Element
+### Element Renderer
  - [vue](https://kr.vuejs.org/) ⭐⭐⭐⭐⭐
  - React
  - [polymer](https://www.polymer-project.org/) ⭐⭐⭐
@@ -105,6 +105,10 @@
 ### Commend args
  - [minimist](https://github.com/substack/minimist)
  - [$click](http://click.pocoo.org/5/)
+ 
+### Json
+ - [serialize-javascript](https://www.npmjs.com/package/serialize-javascript) \
+   Serialize JavaScript to a superset of JSON that includes regular expressions, dates and functions.
  
 ### util
  - [pigy](https://www.npmjs.com/package/pify) Promisify a callback-style function
